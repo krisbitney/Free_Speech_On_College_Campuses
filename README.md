@@ -1,8 +1,8 @@
 # Free_Speech_On_College_Campuses
 Independent unsupervised learning project. The goals are to...
-1. see if students can be clustered by their positions on free speech,
-2. attempt to recover a latent variable representing political correctness, and 
-3. assess the relationship between such clusters or latent variables and students' political affiliations.
+1. See if students can be clustered by their positions on free speech
+2. Attempt to recover a latent variable representing political correctness
+3. Assess the relationship between such clusters or latent variables and students' political affiliations
 
 ### Results
 I found that students cannot be segmented into distinct groups based on their free speech beliefs, as measured by the Stanton Free Speech Index constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. I also did not find that a single latent variable could explain differences in speech beliefs. The strongest latent variable I found explained about 23% of the variance in free speech positions. 
