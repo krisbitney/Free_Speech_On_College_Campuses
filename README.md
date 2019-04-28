@@ -5,7 +5,9 @@ This is an independent unsupervised learning project. The goals are to...
 3. Assess the relationship between such clusters or latent variables and students' political affiliations
 
 ### Results
-I found that students cannot be segmented into distinct groups based on their free speech beliefs, as measured by the Stanton Free Speech Index constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. I also did not find that a single latent variable could explain differences in speech beliefs. The strongest latent variable I found explained about 23% of the variance in free speech positions. 
+I found that students cannot be segmented into distinct groups based on their free speech beliefs, as measured by the Stanton Free Speech Index constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. 
+
+I found marginal support for a variable that could be described as "political correctness". The variable explains about 23% of the differences in speech beliefs.
 
 There is a statistically significant relationship between the Stanton Free Speech Index and political ideology/party affiliation among college students that persists after accounting for factors socioeconomic status, college region, college sector, gender, religion and race. Conservative students tend to have more support for free speech than do moderate students, while liberal students tend to have stronger preference for protective speech policies than moderate students. And while Democrat students are less likely than Independent students to support free speech, Republic students support free speech to about the same degree as Independent students. Despite those differences, the distributions of free speech index scores retain substantial overlap when stratified by ideology or political party leanings.
 
