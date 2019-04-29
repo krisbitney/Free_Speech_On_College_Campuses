@@ -9,7 +9,7 @@ I found that students cannot be segmented into distinct groups solely based on t
 
 I discovered evidence for the latent quality of "political correctness", which accounts for about 23% of the variance in students' beliefs about free speech. 
 
-The "political correctness" factor measures opposition to free speech in general. It is a measure of the extent to which students favor ideas like promoting an inclusive society, "instituting speech codes" that could restrict "offensive or biased speech" on campus, removing first amendment protection of hate speech, "disinviting [sic] speakers because some students are opposed to the invitation".
+The "political correctness" factor measures opposition to free speech in favor of protective inclusiveness. It is a measure of the extent to which students favor ideas like promoting an inclusive society, "instituting speech codes" that could restrict "offensive or biased speech" on campus, removing first amendment protection of hate speech, "disinviting [sic] speakers because some students are opposed to the invitation".
 
 I also found evidence for a latent variable we might label "free speech moderation", which indicates support for free speech in general as well as support for some regulation of speech on campus. Finally, I found a third latent variable I like to call "free speech extremism". It measures the extent to which a student expresses blanket support for free speech, including the use of speech - e.g. protesting, shouting - to counter unwanted speech.
 
