@@ -1,4 +1,4 @@
-# Free_Speech_On_College_Campuses
+# Free Speech On College Campuses
 This is an independent unsupervised learning project. The goals are to...
 1. See if students can be clustered by their positions on free speech
 2. Attempt to recover a latent variable representing political correctness
@@ -14,6 +14,8 @@ The "political correctness" factor measures opposition to free speech in general
 I also found evidence for a latent variable we might label "free speech moderation", which indicates support for free speech in general as well as support for some regulation of speech on campus. Finally, I found a third latent variable I like to call "free speech extremism". It measures the extent to which a student expresses blanket support for free speech, including the use of speech - e.g. protesting, shouting - to counter unwanted speech.
 
 There is a statistically significant relationship between the Stanton Free Speech Index and political ideology/party affiliation among college students that persists after accounting for factors socioeconomic status, college region, college sector, gender, religion and race. Conservative students tend to have more support for free speech than do moderate students, while liberal students tend to have stronger preference for protective speech policies than moderate students. And while Democrat students are less likely than Independent students to support free speech, Republic students support free speech to about the same degree as Independent students. Despite those differences, the distributions of free speech index scores retain substantial overlap when stratified by ideology or political party leanings.
+
+Interestingly, the trait "political correctness" is a better predictor of a college student's political ideology than socioeconomic status, religion, age, gender, race, college sector, or college geographical region.
 
 ### Data Source
 Data for this project comes from a joint survey study by Gallup and the Knight Foundation. The study surveyed more than 3,000 students on college campuses.
@@ -41,7 +43,7 @@ I completed the following tasks the "StudentFreeSpeech.ipynb" Jupyter notebook:
     * Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
     * Hierarchichal/Agglomerative
 7. Varied clustering algorithm hyperparameters and juxtaposed methods' internal performance
-8. Estimated paramters of OLS regressions
+8. Estimated variable relationships using OLS
 
 Cluster model performance was evaluated using Silhouette score and Calinski-Harabaz score.
                   
