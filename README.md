@@ -31,18 +31,17 @@ I completed the following tasks the "StudentFreeSpeech.ipynb" Jupyter notebook:
     * Imputed missing values
 3. Selected, re-encoded, and cleaned features
 4. Created a data preprocessing pipeline
-5. Standardized features
-6. Reduced dimensionaly of feature space
+5. Reduced dimensionaly of feature space
     * Transformed feature space using principal components analysis (PCA)
     * Interpreted principal components using principal directions in original feature space
     * Quantitatively assessed impact of "curse of dimensionality"
-7. Clustered customer data using four methods:
+6. Clustered customer data using four methods:
     * KMeans
     * Gaussian Mixture
     * Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
     * Hierarchichal/Agglomerative
-8. Varied clustering algorithm hyperparameters and juxtaposed methods' internal performance
-9. Estimated paramters of OLS regressions
+7. Varied clustering algorithm hyperparameters and juxtaposed methods' internal performance
+8. Estimated paramters of OLS regressions
 
 Cluster model performance was evaluated using Silhouette score and Calinski-Harabaz score.
                   
