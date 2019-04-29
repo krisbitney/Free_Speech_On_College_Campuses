@@ -5,7 +5,7 @@ This is an independent unsupervised learning project. The goals are to...
 3. Assess the relationship between such clusters or latent variables and students' political affiliations
 
 ### Results
-I found that students cannot be segmented into distinct groups solely based on their free speech beliefs, as measured by the Stanton Free Speech Index constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. 
+While students have diverse beliefs about speech, I found no evidence to support the idea that there are discrete"clusters" in which we can categorize students solely based on those views. When it comes to speech, student beliefs vary widely and most students have moderate views overall, as measured by the Stanton Free Speech Index constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. 
 
 I discovered evidence for the latent quality of "political correctness", which accounts for about 23% of the variance in students' beliefs about free speech. 
 
