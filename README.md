@@ -1,7 +1,7 @@
 # Free Speech On College Campuses
 This is an independent unsupervised learning project. The goals are to...
 1. See if students can be clustered by their positions on free speech
-2. Attempt to recover a latent variable representing political correctness
+2. Attempt to recover a latent variable representing political correctness, if it exists
 3. Assess the relationship between such clusters or latent variables and students' political affiliations
 
 ### Results
