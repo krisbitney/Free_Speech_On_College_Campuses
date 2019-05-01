@@ -1,8 +1,8 @@
 # Free Speech On College Campuses
-This is an independent unsupervised learning project. The goals are to...
-1. See if students can be clustered by their positions on free speech
-2. Attempt to recover a latent variable representing political correctness, if it exists
-3. Assess the relationship between such clusters or latent variables and students' political affiliations
+This is an independent unsupervised learning project. The goal is to answer three questions:
+1. Is there a distinct faction of anti-speech extremists on college campuses?
+2. Would I find support for an underlying concept of “political correctness” among the beliefs students expressed?
+3. How do beliefs about free expression relate to political affiliation?
 
 ### Results
 While students have diverse beliefs about speech, I found no evidence of discrete"clusters" in which we can categorize students solely based on those views. There is not a clear faction of students who oppose free speech. When it comes to speech, student beliefs vary widely and most students have moderate views overall, as measured by the Stanton Free Speech Index (FSI) constituent questions asked in the Gallup-Knight Foundation survey study on which this analysis is based. The distribution of the FSI is unimodal.
