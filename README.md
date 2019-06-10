@@ -1,6 +1,6 @@
 # Free Speech On College Campuses
 This is an independent unsupervised learning project. The goal is to answer three questions:
-1. Is there a distinct faction of anti-speech extremists on college campuses?
+1. Is there a distinct faction of anti-speech extremists on college campuses, as media reports have suggested?
 2. Would I find support for an underlying concept of “political correctness” among the beliefs students expressed?
 3. How do beliefs about free expression relate to political affiliation?
 
